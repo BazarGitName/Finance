@@ -1,7 +1,7 @@
 Тест-кейсы
 
 ID_001
-Название: Добавить платеж 
+Название: Добавить платеж в систему со всеми атрибутами
 предусловия: авторизован по данным логин — admin@admin.ad, пароль — admin
 Шаги: 
 1 — открыть https://fabrique:fabrique@finance.dev.fabrique.studio/payments/edit/
